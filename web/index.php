@@ -6,6 +6,8 @@
  *
  * All Drupal code is released under the GNU General Public License.
  * See COPYRIGHT.txt and LICENSE.txt files in the "core" directory.
+ *
+ * Modified: Added custom header comment for testing Git branches.
  */
 
 use Drupal\Core\DrupalKernel;
